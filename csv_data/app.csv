@@ -1,0 +1,18 @@
+,date,logging_info,status
+0,11-12-21 19:11:50,"Some Unknown Error Occured in predict_skin funtion, error [Errno 2] No such file or directory: ""/home/vicky/Human-Plant-Disease-Detection-with-health-fitness-recommendation/static/user_upload/signature.png""",ERROR
+1,12-12-21 00:09:24,"Some Unknown Error Occured in heart_predict funtion, error list index out of range",ERROR
+2,28-11-21 10:18:59,"Some Unknown Error Occured in predict funtion, error [Errno 2] No such file or directory: ""static/user_upload/gd4.png""",ERROR
+3,12-12-21 00:18:43,"Some Unknown Error Occured in heart_predict funtion, error list index out of range",ERROR
+4,12-12-21 02:51:06,"Some Unknown Error Occured in heart_predict funtion, error list index out of range",ERROR
+5,27-11-21 23:28:57,"Some Unknown Error Occured in home funtion, error local variable ""email_validation_flag"" referenced before assignment",ERROR
+6,11-12-21 15:55:03,"Some Unknown Error Occured in home funtion, error cannot unpack non-iterable NoneType object",ERROR
+7,28-11-21 10:19:44,"Some Unknown Error Occured in predict_pnemonia funtion, error [Errno 2] No such file or directory: ""/home/static/user_upload/gd1.png""",ERROR
+8,27-11-21 23:29:59,"Some Unknown Error Occured in home funtion, error local variable ""email_validation_flag"" referenced before assignment",ERROR
+9,27-11-21 23:32:32,"Some Unknown Error Occured in home funtion, error local variable ""email_validation_flag"" referenced before assignment",ERROR
+10,12-12-21 00:14:44,"Some Unknown Error Occured in heart_predict funtion, error list index out of range",ERROR
+11,12-12-21 00:31:32,"Some Unknown Error Occured in heart_predict funtion, error local variable ""fname"" referenced before assignment",ERROR
+12,11-12-21 15:36:56,"Some Unknown Error Occured in send_code funtion, error cannot unpack non-iterable NoneType object",ERROR
+13,11-12-21 15:40:25,"Some Unknown Error Occured in send_code funtion, error cannot unpack non-iterable NoneType object",ERROR
+14,12-12-21 00:16:30,"Some Unknown Error Occured in heart_predict funtion, error [Errno 21] Is a directory: ""src/medical_report_file""",ERROR
+15,12-12-21 00:25:16,"Some Unknown Error Occured in heart_predict funtion, error local variable ""fname"" referenced before assignment",ERROR
+16,11-12-21 15:50:24,"Some Unknown Error Occured in home funtion, error cannot unpack non-iterable NoneType object",ERROR

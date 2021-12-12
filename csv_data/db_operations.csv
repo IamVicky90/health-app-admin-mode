@@ -1,0 +1,131 @@
+,date,logging_info,status
+0,22-11-21 09:18:27,"Email: moizbroadthinker543@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+1,12-12-21 13:50:36,Sucessfully connected to the mongodb database,INFO
+2,27-11-21 23:36:57,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+3,11-12-21 16:10:20,Sucessfully connected to the mongodb database,INFO
+4,11-12-21 16:22:28,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+5,12-12-21 00:32:05,Sucessfully connected to the mongodb database,INFO
+6,22-11-21 15:28:46,Sucessfully connected to the mongodb database,INFO
+7,11-12-21 17:50:25,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+8,27-11-21 23:36:54,Sucessfully connected to the mongodb database,INFO
+9,11-12-21 16:40:27,Sucessfully connected to the mongodb database,INFO
+10,22-11-21 15:28:54,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+11,11-12-21 17:56:07,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+12,12-12-21 02:48:10,Sucessfully connected to the mongodb database,INFO
+13,22-11-21 15:28:15,Sucessfully connected to the mongodb database,INFO
+14,11-12-21 17:36:50,Sucessfully connected to the mongodb database,INFO
+15,27-11-21 23:32:29,Sucessfully connected to the mongodb database,INFO
+16,22-11-21 15:29:25,password for email: waqasbilal02@gmail.com sucessfully updated in the database,INFO
+17,29-11-21 04:51:51,password for email: ranamoazzam.iqbal11168@gmail.com sucessfully updated in the database,INFO
+18,11-12-21 15:55:03,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False; error: ""Cursor"" object has no attribute ""count""",ERROR
+19,12-12-21 02:41:11,Sucessfully connected to the mongodb database,INFO
+20,22-11-21 15:22:10,Sucessfully connected to the mongodb database,INFO
+21,22-11-21 15:27:19,Sucessfully connected to the mongodb database,INFO
+22,12-12-21 00:08:53,Sucessfully connected to the mongodb database,INFO
+23,12-12-21 00:31:07,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False",INFO
+24,22-11-21 09:01:28,"Email: moizbroadthinker543@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+25,22-11-21 00:14:26,sign_up credentials for email: thinkervicky@gmail.com sucessfully inserted into database,INFO
+26,29-11-21 04:50:11,"Email: ranamoazzam.iqbal11168@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+27,22-11-21 08:55:31,Sucessfully connected to the mongodb database,INFO
+28,12-12-21 00:24:02,Sucessfully connected to the mongodb database,INFO
+29,11-12-21 16:17:14,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+30,12-12-21 00:16:27,Sucessfully connected to the mongodb database,INFO
+31,22-11-21 00:04:34,Sucessfully connected to the mongodb database,INFO
+32,28-11-21 14:04:47,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+33,22-11-21 00:14:20,Sucessfully connected to the mongodb database,INFO
+34,12-12-21 00:30:47,Sucessfully connected to the mongodb database,INFO
+35,28-11-21 10:22:03,password for email: waqasbilal02@gmail.com sucessfully updated in the database,INFO
+36,28-11-21 10:21:01,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+37,12-12-21 00:24:46,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False",INFO
+38,22-11-21 15:18:04,Sucessfully connected to the mongodb database,INFO
+39,12-12-21 00:15:51,Sucessfully connected to the mongodb database,INFO
+40,22-11-21 00:07:06,Sucessfully connected to the mongodb database,INFO
+41,22-11-21 00:04:37,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+42,22-11-21 15:29:43,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+43,12-12-21 13:50:09,Sucessfully connected to the mongodb database,INFO
+44,11-12-21 16:15:08,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+45,12-12-21 02:35:15,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+46,11-12-21 17:57:34,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False",INFO
+47,22-11-21 09:18:24,Sucessfully connected to the mongodb database,INFO
+48,11-12-21 19:10:42,Sucessfully connected to the mongodb database,INFO
+49,12-12-21 00:30:53,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+50,11-12-21 16:15:04,Sucessfully connected to the mongodb database,INFO
+51,12-12-21 00:08:57,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+52,12-12-21 02:48:14,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+53,12-12-21 00:25:11,Sucessfully connected to the mongodb database,INFO
+54,22-11-21 15:18:09,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+55,27-11-21 23:29:57,Sucessfully connected to the mongodb database,INFO
+56,22-11-21 09:01:11,password for email: moizbroadthinker543@gmail.com sucessfully updated in the database,INFO
+57,11-12-21 16:10:23,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False",INFO
+58,11-12-21 12:11:10,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+59,11-12-21 17:57:57,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+60,22-11-21 00:07:10,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+61,12-12-21 00:20:22,Sucessfully connected to the mongodb database,INFO
+62,11-12-21 12:12:19,Sucessfully connected to the mongodb database,INFO
+63,22-11-21 00:09:32,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+64,11-12-21 15:36:56,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False; error: ""Cursor"" object has no attribute ""count""",ERROR
+65,22-11-21 08:55:34,"Email: moizbroadthinker543@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+66,22-11-21 09:18:14,Sucessfully connected to the mongodb database,INFO
+67,12-12-21 02:44:00,Sucessfully connected to the mongodb database,INFO
+68,28-11-21 10:21:24,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+69,12-12-21 13:51:27,sign_up credentials sucessfully inserted into database,INFO
+70,11-12-21 17:58:06,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+71,22-11-21 00:11:21,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+72,12-12-21 00:24:07,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+73,27-11-21 23:28:55,Sucessfully connected to the mongodb database,INFO
+74,22-11-21 00:14:23,Sucessfully connected to the mongodb database,INFO
+75,12-12-21 13:52:30,Sucessfully connected to the mongodb database,INFO
+76,28-11-21 10:18:36,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+77,11-12-21 15:40:25,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False; error: ""Cursor"" object has no attribute ""count""",ERROR
+78,22-11-21 15:28:18,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+79,12-12-21 00:15:55,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+80,12-12-21 13:50:13,"Email: ghulambilal90@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+81,22-11-21 00:11:13,Sucessfully connected to the mongodb database,INFO
+82,12-12-21 00:31:29,Sucessfully connected to the mongodb database,INFO
+83,11-12-21 17:56:03,Sucessfully connected to the mongodb database,INFO
+84,12-12-21 00:31:45,Sucessfully connected to the mongodb database,INFO
+85,12-12-21 00:24:40,Sucessfully connected to the mongodb database,INFO
+86,11-12-21 19:28:25,Sucessfully connected to the mongodb database,INFO
+87,11-12-21 16:17:10,Sucessfully connected to the mongodb database,INFO
+88,12-12-21 13:51:58,Sucessfully connected to the mongodb database,INFO
+89,28-11-21 10:22:24,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+90,12-12-21 13:52:01,"Email: ghulambilal90@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+91,12-12-21 02:41:16,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+92,11-12-21 16:40:31,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+93,22-11-21 15:29:22,sign_up credentials sucessfully inserted into database,INFO
+94,11-12-21 17:50:21,Sucessfully connected to the mongodb database,INFO
+95,12-12-21 02:41:39,Sucessfully connected to the mongodb database,INFO
+96,12-12-21 00:31:03,Sucessfully connected to the mongodb database,INFO
+97,12-12-21 00:19:55,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+98,28-11-21 14:04:43,Sucessfully connected to the mongodb database,INFO
+99,11-12-21 19:10:46,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+100,11-12-21 17:36:54,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+101,12-12-21 00:19:50,Sucessfully connected to the mongodb database,INFO
+102,11-12-21 15:49:58,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False; error: ""Cursor"" object has no attribute ""count""",ERROR
+103,12-12-21 02:35:39,Sucessfully connected to the mongodb database,INFO
+104,22-11-21 00:09:29,Sucessfully connected to the mongodb database,INFO
+105,22-11-21 15:27:23,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+106,11-12-21 16:10:41,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+107,12-12-21 02:48:39,Sucessfully connected to the mongodb database,INFO
+108,11-12-21 17:57:59,Sucessfully connected to the mongodb database,INFO
+109,29-11-21 04:52:30,"Email: ranamoazzam.iqbal11168@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+110,11-12-21 17:57:03,sign_up credentials sucessfully inserted into database,INFO
+111,22-11-21 09:18:32,"Email: moizbroadthinker543@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+112,11-12-21 16:10:38,Sucessfully connected to the mongodb database,INFO
+113,22-11-21 09:18:29,Sucessfully connected to the mongodb database,INFO
+114,11-12-21 19:28:29,"Email: ghulambilal90@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+115,12-12-21 13:50:40,"Email: ghulambilal90@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+116,11-12-21 16:22:24,Sucessfully connected to the mongodb database,INFO
+117,12-12-21 00:31:49,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+118,11-12-21 17:57:52,Sucessfully connected to the mongodb database,INFO
+119,12-12-21 02:35:10,Sucessfully connected to the mongodb database,INFO
+120,11-12-21 12:12:20,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: False",INFO
+121,11-12-21 15:50:24,"Email: waqasbilal0002@gmail.com validation flag, email_validation_flag: False,password_validation_flag: False; error: ""Cursor"" object has no attribute ""count""",ERROR
+122,22-11-21 15:29:39,Sucessfully connected to the mongodb database,INFO
+123,22-11-21 09:18:21,"Email: moizbroadthinker543@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+124,11-12-21 17:57:29,Sucessfully connected to the mongodb database,INFO
+125,22-11-21 09:01:25,Sucessfully connected to the mongodb database,INFO
+126,11-12-21 17:57:06,password for email: waqasbilal02@gmail.com sucessfully updated in the database,INFO
+127,12-12-21 13:51:30,password for email: ghulambilal90@gmail.com sucessfully updated in the database,INFO
+128,22-11-21 15:22:14,"Email: waqasbilal02@gmail.com validation flag, email_validation_flag: True,password_validation_flag: True",INFO
+129,22-11-21 09:01:08,sign_up credentials sucessfully inserted into database,INFO

@@ -1,0 +1,178 @@
+,date,logging_info,status
+0,28-11-21 10:20:45,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+1,11-12-21 17:50:05,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+2,28-11-21 10:20:46,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+3,11-12-21 15:50:19,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+4,12-12-21 00:19:38,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+5,11-12-21 16:38:14,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+6,12-12-21 00:15:47,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+7,29-11-21 04:52:15,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+8,29-11-21 04:52:10,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+9,28-11-21 14:04:25,Sucessfully remove the file credentials_handling.log from path Project_Logs/credentials_handling.log,INFO
+10,12-12-21 02:35:02,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+11,11-12-21 17:36:39,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+12,12-12-21 00:19:40,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+13,11-12-21 16:16:59,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+14,11-12-21 16:14:42,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+15,11-12-21 15:36:29,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+16,28-11-21 14:03:59,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+17,11-12-21 16:14:40,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+18,12-12-21 13:51:42,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+19,11-12-21 12:12:47,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+20,12-12-21 00:30:35,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+21,28-11-21 10:23:08,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+22,28-11-21 13:51:18,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+23,12-12-21 00:15:45,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+24,28-11-21 10:23:09,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+25,28-11-21 10:18:22,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+26,28-11-21 14:04:05,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+27,11-12-21 16:38:15,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+28,29-11-21 04:52:16,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+29,28-11-21 14:04:00,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+30,12-12-21 13:51:44,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+31,12-12-21 02:48:02,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+32,12-12-21 00:15:43,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+33,12-12-21 00:08:37,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+34,11-12-21 19:10:35,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+35,28-11-21 10:20:44,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+36,28-11-21 10:23:05,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+37,28-11-21 10:18:23,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+38,12-12-21 13:48:56,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+39,12-12-21 13:51:45,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+40,12-12-21 00:08:38,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+41,12-12-21 14:35:41,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+42,11-12-21 16:38:18,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+43,11-12-21 17:36:37,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+44,12-12-21 02:47:59,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+45,12-12-21 02:40:58,Sucessfully remove the file create_medical_report.log from path Project_Logs/create_medical_report.log,INFO
+46,12-12-21 00:30:40,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+47,28-11-21 10:20:47,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+48,28-11-21 14:04:22,Sucessfully remove the file common_utils.log from path Project_Logs/common_utils.log,INFO
+49,28-11-21 14:04:20,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+50,28-11-21 14:07:50,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+51,11-12-21 15:42:16,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+52,28-11-21 14:04:13,Sucessfully remove the file kidney_disease_prediction.log from path Project_Logs/kidney_disease_prediction.log,INFO
+53,11-12-21 17:58:44,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+54,11-12-21 16:17:00,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+55,28-11-21 10:20:48,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+56,28-11-21 14:07:48,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+57,11-12-21 15:36:28,Sucessfully connected to the cassandra database with keyspace project_loggings,INFO
+58,11-12-21 17:58:49,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+59,12-12-21 02:48:00,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+60,11-12-21 16:16:58,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+61,12-12-21 00:19:44,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+62,11-12-21 16:14:38,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+63,12-12-21 00:23:54,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+64,11-12-21 17:36:41,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+65,12-12-21 14:35:40,Sucessfully remove the file create_medical_report.log from path Project_Logs/create_medical_report.log,INFO
+66,11-12-21 17:55:46,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+67,12-12-21 00:24:30,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+68,12-12-21 02:40:57,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+69,12-12-21 00:24:28,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+70,28-11-21 14:07:47,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+71,11-12-21 16:38:16,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+72,12-12-21 02:35:04,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+73,11-12-21 17:58:48,"Could occured remove the file credentials_validation.log from path Project_Logs/credentials_validation.log error: [Errno 2] No such file or directory: ""Project_Logs/credentials_validation.log""",ERROR
+74,28-11-21 10:18:21,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+75,11-12-21 16:14:41,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+76,29-11-21 04:49:51,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+77,11-12-21 17:58:45,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+78,11-12-21 19:27:47,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+79,11-12-21 15:42:14,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+80,11-12-21 17:55:27,"Error occured while connecting to cassandra database error: (""Unable to connect to any servers"", {""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:dd2489c0-72b1-4e5a-a545-15a017f68ab6"": OperationTimedOut(""errors=None, last_host=None""), ""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:7beb840f-c076-4769-bd68-01acc5725524"": OperationTimedOut(""errors=None, last_host=None""), ""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:016912d1-f0df-4577-9bc8-58f1f1999218"": OperationTimedOut(""errors=None, last_host=None"")})",ERROR
+81,12-12-21 00:30:36,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+82,28-11-21 14:08:07,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+83,12-12-21 02:35:00,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+84,11-12-21 17:50:07,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+85,12-12-21 00:23:57,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+86,11-12-21 17:57:21,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+87,29-11-21 04:52:11,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+88,12-12-21 13:49:00,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+89,11-12-21 16:10:11,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+90,11-12-21 17:55:47,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+91,11-12-21 17:57:24,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+92,11-12-21 17:57:22,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+93,11-12-21 17:57:20,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+94,11-12-21 17:55:45,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+95,12-12-21 00:30:41,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+96,12-12-21 00:30:34,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+97,12-12-21 00:15:44,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+98,11-12-21 19:27:45,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+99,12-12-21 00:08:42,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+100,29-11-21 04:53:58,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+101,12-12-21 00:15:46,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+102,12-12-21 02:40:59,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+103,28-11-21 13:50:48,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+104,28-11-21 11:23:02,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+105,11-12-21 16:10:15,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+106,28-11-21 14:08:06,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+107,12-12-21 00:19:39,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+108,12-12-21 14:35:38,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+109,29-11-21 04:52:12,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+110,11-12-21 12:10:56,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+111,12-12-21 00:24:29,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+112,28-11-21 14:03:58,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+113,11-12-21 16:38:13,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+114,11-12-21 16:14:39,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+115,29-11-21 04:52:13,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+116,11-12-21 19:10:37,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+117,11-12-21 15:42:13,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+118,28-11-21 14:04:24,Sucessfully remove the file predict_images.log from path Project_Logs/predict_images.log,INFO
+119,12-12-21 02:34:59,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+120,11-12-21 17:58:47,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+121,28-11-21 10:20:50,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+122,12-12-21 02:47:57,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+123,12-12-21 00:19:45,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+124,12-12-21 00:24:32,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+125,11-12-21 17:55:49,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+126,12-12-21 02:34:57,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+127,12-12-21 13:49:01,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+128,11-12-21 17:50:06,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+129,11-12-21 17:58:43,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+130,11-12-21 15:50:16,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+131,11-12-21 19:27:43,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+132,11-12-21 17:50:09,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+133,11-12-21 15:42:15,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+134,11-12-21 15:42:12,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+135,29-11-21 04:53:57,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+136,11-12-21 03:18:22,"Error occured while connecting to cassandra database error: (""Unable to connect to any servers"", {""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:dd2489c0-72b1-4e5a-a545-15a017f68ab6"": AuthenticationFailed(""Failed to authenticate to 514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:dd2489c0-72b1-4e5a-a545-15a017f68ab6: Error from server: code=0100 [Bad credentials] message=""We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html""""), ""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:016912d1-f0df-4577-9bc8-58f1f1999218"": AuthenticationFailed(""Failed to authenticate to 514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:016912d1-f0df-4577-9bc8-58f1f1999218: Error from server: code=0100 [Bad credentials] message=""We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html""""), ""514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:7beb840f-c076-4769-bd68-01acc5725524"": AuthenticationFailed(""Failed to authenticate to 514caa44-afed-47d4-ac69-911205845a27-ap-southeast-1.db.astra.datastax.com:29042:7beb840f-c076-4769-bd68-01acc5725524: Error from server: code=0100 [Bad credentials] message=""We recently improved your database security. To find out more and reconnect, see https://docs.datastax.com/en/astra/docs/manage-application-tokens.html"""")})",ERROR
+137,11-12-21 16:10:12,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+138,12-12-21 00:23:53,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+139,12-12-21 00:19:41,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+140,11-12-21 17:57:25,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+141,11-12-21 15:50:17,Sucessfully remove the file credentials_handling.log from path Project_Logs/credentials_handling.log,INFO
+142,12-12-21 02:41:01,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+143,28-11-21 10:23:11,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+144,11-12-21 19:27:44,Sucessfully remove the file predict_images.log from path Project_Logs/predict_images.log,INFO
+145,12-12-21 13:48:57,Sucessfully remove the file app.log from path Project_Logs/app.log,INFO
+146,28-11-21 14:08:32,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+147,11-12-21 16:10:14,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+148,28-11-21 10:18:13,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+149,12-12-21 00:08:41,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+150,28-11-21 10:20:49,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+151,12-12-21 02:47:58,Sucessfully remove the file emails.log from path Project_Logs/emails.log,INFO
+152,12-12-21 13:51:47,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+153,11-12-21 16:10:13,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+154,12-12-21 13:48:58,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+155,11-12-21 17:57:23,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+156,12-12-21 00:23:56,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+157,28-11-21 11:23:36,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+158,11-12-21 16:14:43,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+159,12-12-21 00:15:42,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+160,11-12-21 19:27:49,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+161,12-12-21 00:30:37,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+162,28-11-21 14:07:49,Sucessfully remove the file common_utils.log from path Project_Logs/common_utils.log,INFO
+163,11-12-21 16:17:02,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+164,12-12-21 13:48:59,Sucessfully remove the file credentials_validation.log from path Project_Logs/credentials_validation.log,INFO
+165,28-11-21 14:07:44,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+166,28-11-21 14:04:27,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+167,28-11-21 14:08:31,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+168,11-12-21 17:58:46,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+169,12-12-21 13:51:43,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+170,11-12-21 17:36:38,Sucessfully remove the file db_operations.log from path Project_Logs/db_operations.log,INFO
+171,11-12-21 19:10:36,Sucessfully remove the file cassandra_db.log from path Project_Logs/cassandra_db.log,INFO
+172,11-12-21 12:12:48,Sucessfully remove the file generate_random_code_for_validation.log from path Project_Logs/generate_random_code_for_validation.log,INFO
+173,28-11-21 14:27:50,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+174,28-11-21 10:18:12,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO
+175,28-11-21 14:08:08,Sucessfully dump loggings file into cassandra database with keyspace project_loggings,INFO
+176,12-12-21 02:34:55,Sucessfully created and return the session of cassandra database with keyspace project_loggings,INFO

@@ -1,0 +1,22 @@
+,date,logging_info,status
+0,12-12-21 02:44:03,Sucessfully executed the method generate_the_report,INFO
+1,12-12-21 14:37:34,Sucessfully saved the file.docx file,INFO
+2,12-12-21 13:52:34,Sucessfully saved the file.docx file,INFO
+3,12-12-21 14:37:31,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: 83b41292-1149-489a-9320-061c202dda47",INFO
+4,12-12-21 14:38:31,Sucessfully saved the file.docx file,INFO
+5,12-12-21 14:36:41,Sucessfully executed the method generate_the_report,INFO
+6,12-12-21 14:39:34,"email is waqasbilal02@gmail.com, prediction_text is Result:",INFO
+7,12-12-21 13:52:38,Sucessfully executed the method generate_the_report,INFO
+8,12-12-21 14:38:29,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have diabtes!  report_number is: a4c8b354-511b-4b0f-bd67-7be85d2379da",INFO
+9,12-12-21 02:35:42,Sucessfully executed the method generate_the_report,INFO
+10,12-12-21 02:48:42,Sucessfully executed the method generate_the_report,INFO
+11,12-12-21 13:52:30,"email is ghulambilal90@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: 944efbec-d024-450f-9c3d-a6be2e99407d",INFO
+12,12-12-21 14:37:38,Sucessfully executed the method generate_the_report,INFO
+13,12-12-21 02:43:59,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: 94788e5e-22ab-4149-a595-0e27a5e42812",INFO
+14,12-12-21 14:36:37,Sucessfully saved the file.docx file,INFO
+15,12-12-21 02:41:42,Sucessfully executed the method generate_the_report,INFO
+16,12-12-21 14:36:34,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: 6728badc-f658-4d4c-b9da-42a8d2e6cd85",INFO
+17,12-12-21 02:41:39,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: 553ba3d4-2a68-4f4a-a6e1-34c15cd31fa9",INFO
+18,12-12-21 14:38:35,Sucessfully executed the method generate_the_report,INFO
+19,12-12-21 02:35:39,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease! <a href=https://my-medical-report-docfile.s3.us-east-2.amazonaws.com/file.docx>Click Here to generate report</a> report_number is: 1c3af4c9-2d3c-4f8b-aaef-0e6218495283",INFO
+20,12-12-21 02:48:39,"email is waqasbilal02@gmail.com, prediction_text is Prediction Result: Don""t worry You don""t have any disease!  report_number is: c9f3b342-3a5d-4c97-a0c1-be70a13a40e1",INFO
