@@ -1,7 +1,7 @@
 from db_management.cassandra_ops import CASSANDRRA_OPS
 from graphs.Graphs import Graph_ops
-import dash_html_components as html
-import dash_core_components as dcc
+from dash import html
+from dash import dcc
 class create_layouts:
     def __init__(self):
         self.cassandra_ops_obj=CASSANDRRA_OPS()
@@ -29,6 +29,20 @@ class create_layouts:
         html.H1(children='Vicky AI Priduction.'),
         html.Div(children='''
         cassandra_db.py file dashboard
+        '''),
+        dcc.Graph(
+        id='status_fig',
+        figure=status_fig
+        ),
+        dcc.Graph(
+        id='logging_info_fig',
+        figure=logging_info_fig),]) 
+    def return_common_utils_graph(self,dash_app):
+        status_fig,logging_info_fig=self.graph_ops_obj.common_utils_graph()
+        dash_app.layout = html.Div(children=[
+        html.H1(children='Vicky AI Priduction.'),
+        html.Div(children='''
+        common_utils.py file dashboard
         '''),
         dcc.Graph(
         id='status_fig',

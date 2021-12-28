@@ -34,3 +34,10 @@ class Graph_ops:
             width=1500,
             height=500,)
         return status_fig,logging_info_fig
+    def common_utils_graph(self):
+        csv = pd.read_csv('csv_data/common_utils.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
