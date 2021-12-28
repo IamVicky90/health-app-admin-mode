@@ -2,8 +2,8 @@ import os
 from cassandra.cluster import Cluster
 from cassandra.auth import PlainTextAuthProvider
 import pandas as pd
-class cassandra_ops:
-    def __init__(self,):
+class CASSANDRRA_OPS:
+    def __init__(self):
         pass
     def get_connection_to_cassandra_db(self,keyspace):
         try:
@@ -18,7 +18,6 @@ class cassandra_ops:
             return cluster, session
         except Exception as e:
             raise e
-        return session
     def get_tables_from_cassandra_db(self,keyspace='project_loggings',cluster=None,session=None):
         session.execute(f'use {keyspace};')
         tables=cluster.metadata.keyspaces['project_loggings'].tables
@@ -26,8 +25,4 @@ class cassandra_ops:
     def convert_tables_into_pandas_csv(self,session,tables):
         for table in tables:
             df=pd.DataFrame(session.execute(f'select * from {table};'))
-            df.to_csv(os.path.join(os.getcwd(),'csv_data',f'{table}.csv'))
-cassandra_ops_obj=cassandra_ops()
-cluster,session=cassandra_ops_obj.get_connection_to_cassandra_db('project_loggings')
-tables=cassandra_ops_obj.get_tables_from_cassandra_db('project_loggings',cluster=cluster,session=session)
-cassandra_ops_obj.convert_tables_into_pandas_csv(session,tables)
+            df.to_csv(os.path.join(os.getcwd(),'csv_data',f'{table}.csv'),index=False)
