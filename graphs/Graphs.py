@@ -41,3 +41,59 @@ class Graph_ops:
         status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
         logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
         return status_fig, logging_info_fig
+    def create_medical_report_graph(self):
+        csv = pd.read_csv('csv_data/create_medical_report.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def credentials_handling_graph(self):
+        csv = pd.read_csv('csv_data/credentials_handling.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def credentials_validation_graph(self):
+        csv = pd.read_csv('csv_data/credentials_validation.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def db_operations_graph(self):
+        csv = pd.read_csv('csv_data/db_operations.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def emails_graph(self):
+        csv = pd.read_csv('csv_data/emails.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def generate_random_code_for_validation_graph(self):
+        csv = pd.read_csv('csv_data/generate_random_code_for_validation.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def kidney_disease_prediction_graph(self):
+        csv = pd.read_csv('csv_data/kidney_disease_prediction.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
+    def predict_images_graph(self):
+        csv = pd.read_csv('csv_data/predict_images.csv')
+        csv['date']=pd.to_datetime(csv['date'], format='%d-%m-%y %H:%M:%S')
+        csv=csv.sort_values(by='date').reset_index().drop('index',axis=1)
+        status_fig=px.histogram(csv,'status',color='status',title=f"Success V/S Errors  Status from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        logging_info_fig = px.pie(csv, names='logging_info',title=f"Logging_info from from {csv['date'][0]} to {csv['date'][csv.shape[0]-1]}, total entries are {csv.shape[0]}",)
+        return status_fig, logging_info_fig
