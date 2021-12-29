@@ -1,9 +1,11 @@
 from dash import Dash
 from werkzeug.middleware.dispatcher import DispatcherMiddleware
 from werkzeug.serving import run_simple
-from flask import Flask,render_template,redirect
+from flask import Flask,render_template,redirect,request
 from layouts.web_layouts import create_layouts
+from mongo_db_ops.db_management import mongo_db_atlas_ops
 server = Flask(__name__)
+server.jinja_env.globals.update(zip=zip)
 app_dash = Dash(__name__, server = server, url_base_pathname='/app/' )
 cassandra_app = Dash(__name__, server = server, url_base_pathname='/cassanda_db/')
 common_utils_dash_app = Dash(__name__, server = server, url_base_pathname='/common_utils/')
@@ -29,10 +31,27 @@ create_layouts_obj.return_kidney_disease_prediction_graph(kidney_disease_predict
 create_layouts_obj.return_predict_images_graph(predict_images_dash_app)
 
 @server.route('/')
-@server.route('/hello')
+@server.route('/login')
 def hello():
     
-    return 'hello world!'
+    return render_template('/login.html')
+@server.route('/validation',methods=['GET','POST'])
+def validation():
+    if request.method == 'POST':
+        username=request.form['username']
+        password=request.form['pass']
+        if username=='admin':
+            if password=='123':
+                mongo_obs=mongo_db_atlas_ops()
+                client=mongo_obs.get_mongo_db_connection()
+                fname,lname,email,state=mongo_obs.return_entries_from_db(client)
+                return render_template('index.html',fname=fname,lname=lname,email=email,state=state,total_clients=len(email))
+            else:
+                print('Wrong Password')
+        else: 
+            print('Invalid username or password')
+        return 'validate run successfully'
+    return 'GET'
 
 @server.route('/dashboard/',methods=['GET'])
 def dashboard():
@@ -69,7 +88,7 @@ def generate_random_code_for_validation():
 @server.route('/kidney_disease_prediction',methods=['GET'])
 def kidney_disease_prediction():
     return redirect('/kidney_disease_prediction_dash')
-@server.route('/predict_images',methods=['GET'])
+@server.route('/predict_images',methods=['   GET'])
 def predict_images():
     return redirect('/predict_images_dash')
 
@@ -87,4 +106,4 @@ app = DispatcherMiddleware(server, {
     '/predict_images_dash': predict_images_dash_app.server,
 })
 
-run_simple('0.0.0.0', 8080, app, use_reloader=True, use_debugger=True)
+run_simple('0.0.0.0', 8000, app, use_reloader=True, use_debugger=True)
