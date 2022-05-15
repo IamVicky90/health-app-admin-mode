@@ -2,3 +2,4 @@ __pycache__
 csv_data/*.csv
 test.py
 main.py
+env/*
