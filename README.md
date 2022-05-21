@@ -2,4 +2,4 @@
 ## Admin Credentials
 The admin username is admin and admin password is 123
 ## Deployment Link
-Building deployed, and hosting a Flask web app on Aws( https://NoLinkAvailable.com ).
+Building deployed, and hosting a Flask web app on Aws( http://18.212.225.1:8000 ).
